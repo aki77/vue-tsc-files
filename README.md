@@ -27,7 +27,7 @@ With lint-staged:
 ```json
 {
   "lint-staged": {
-    "**/*.ts": "vue-tsc-files --noEmit"
+    "*.{ts,vue}": "vue-tsc-files --noEmit"
   }
 }
 ```
