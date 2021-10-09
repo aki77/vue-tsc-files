@@ -13,10 +13,10 @@
   ],
   "peerDependencies": {
     "typescript": ">=4",
-    "vue-tsc": "^0.3.0"
+    "vue-tsc": "^0.28.1"
   },
   "devDependencies": {
     "typescript": "^4.4.3",
-    "vue-tsc": "^0.3.0"
+    "vue-tsc": "^0.28.1"
   }
 }
